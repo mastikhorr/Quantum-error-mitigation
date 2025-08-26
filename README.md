@@ -31,7 +31,7 @@ QML_ERROR_MITIGATION_RECOMMENDER/
 
 ## 🔑 Key Features
 
-- **Synthetic Dataset Generation**  
+- **Synthetic + Real Quantum Data tested Dataset Generation**  
   - Automatically generates quantum circuit datasets with **9 key parameters**.  
 - **Model Training & Evaluation**  
   - Trains multiple ML models: **Random Forest, Gradient Boosting, SVM, Logistic Regression, Neural Network**.  
@@ -158,4 +158,5 @@ predictor.evaluate_on_test_data("data/test_dataset.csv")
 ## 👨‍💻 Author
 **Sidharth Kumar**  
 Developed during internship at **IBM**, under guidance of **Dr. Anupama Ray**.
+
 
