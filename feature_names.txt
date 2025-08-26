@@ -1,0 +1,9 @@
+circuit_depth
+num_gates
+num_qubits
+entanglement
+noise_level
+gate_density
+two_qubit_ratio
+circuit_type
+complexity_score
