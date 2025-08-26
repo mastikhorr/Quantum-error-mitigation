@@ -70,8 +70,8 @@ Each circuit is represented using **9 parameters**:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mastikhorr/Explore-AI-methods-for-selecting-Error-Mitigation-Strategies-Objective.git
-   cd Explore-AI-methods-for-selecting-Error-Mitigation-Strategies-Objective
+   git clone https://github.com/mastikhorr/Quantum-error-mitigation.git
+   cd  Quantum-error-mitigation
    ```
 
 2. **Create virtual environment**
@@ -158,4 +158,5 @@ predictor.evaluate_on_test_data("data/test_dataset.csv")
 ## 👨‍💻 Author
 **Sidharth Kumar**  
 Developed during internship at **IBM**, under guidance of **Dr. Anupama Ray**.
+
 
